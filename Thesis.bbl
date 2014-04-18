@@ -1,0 +1,160 @@
+\begin{thebibliography}{19}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cooper(1988)]{Cooper1988}
+H.M. Cooper.
+\newblock Organizing knowledge syntheses: A taxonomy of literature reviews.
+\newblock \emph{Knowledge in Society}, 1\penalty0 (1):\penalty0 104--126, 1988.
+\newblock URL
+  \url{http://www.scopus.com/inward/record.url?eid=2-s2.0-0003140320&partnerID=40&md5=209d6582654d849e8c3f036c601888fb}.
+\newblock cited By (since 1996)64.
+
+\bibitem[Abraham and Saravanakumar(2013)]{Abraham2013}
+John Abraham and V~Ramesh Saravanakumar.
+\newblock {Yield and Quality Characteristics of Rendered Chicken Oil for
+  Biodiesel Production}.
+\newblock 2013.
+\newblock \doi{10.1007/s11746-013-2346-5}.
+
+\bibitem[Ananth(2013)]{Ananth2013}
+Ananth.
+\newblock {No Title}, October 2013.
+\newblock URL
+  \url{http://www.thehindu.com/news/national/tamil-nadu/poultry-meat-turns-into-valuable-biodiesel-source/article5243530.ece}.
+
+\bibitem[Estill(2005)]{Estill2005}
+Lyle Estill.
+\newblock \emph{Biodiesel power: the passion, the people, and the politics of
+  the next renewable fuel.}
+\newblock Gabriola, BC: New Society Publishers, 2005.
+
+\bibitem[SABS(2004)]{SANS1935}
+SABS.
+\newblock South african national standard: Automotive biodiesel fuel, 2004.
+
+\bibitem[()]{}
+
+
+\bibitem[Randolph(2009)]{Randolph2009}
+Justus~J Randolph.
+\newblock A guide to writing the dissertation literature review.
+\newblock \emph{Practical Assessment, Research \& Evaluation}, 14\penalty0
+  (13), 2009.
+
+\bibitem[Knothe(2006)]{Knothe2006}
+Gerhard Knothe.
+\newblock {Analyzing biodiesel: standards and other methods}.
+\newblock \emph{Journal of the American Oil Chemists' Society}, 83\penalty0
+  (10):\penalty0 823--833, October 2006.
+\newblock ISSN 0003-021X.
+\newblock \doi{10.1007/s11746-006-5033-y}.
+\newblock URL \url{http://link.springer.com/10.1007/s11746-006-5033-y}.
+
+\bibitem[Plank and Lorbeer(1995)]{Plank1995}
+Christina Plank and Eberhard Lorbeer.
+\newblock Simultaneous determination of glycerol, and mono-, di- and
+  triglycerides in vegetable oil methyl esters by capillary gas chromatography.
+\newblock \emph{Journal of Chromatography A}, 697\penalty0 (1-2):\penalty0
+  461--468, April 1995.
+\newblock \doi{doi:10.1016/0021-9673(94)00867-9}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/B6TG8-4007C41-5G/2/4a7579b204ed5cdbd0367a089b821e26}.
+
+\bibitem[Saito(2013)]{Saito2013}
+Muneo Saito.
+\newblock {History of supercritical fluid chromatography: instrumental
+  development.}
+\newblock \emph{Journal of bioscience and bioengineering}, 115\penalty0
+  (6):\penalty0 590--9, June 2013.
+\newblock ISSN 1347-4421.
+\newblock \doi{10.1016/j.jbiosc.2012.12.008}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/23318247}.
+
+\bibitem[Pauls(2011)]{Pauls2011}
+R~E Pauls.
+\newblock {A review of chromatographic characterization techniques for
+  biodiesel and biodiesel blends.}
+\newblock \emph{Journal of chromatographic science}, 49\penalty0 (5):\penalty0
+  384--96, May 2011.
+\newblock ISSN 1945-239X.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/21549031}.
+
+\bibitem[Pisarello et~al.(2010)Pisarello, Dalla~Costa, Veizaga, and
+  Querini]{Pisarello2010}
+M.L. Pisarello, B.O. Dalla~Costa, N.S. Veizaga, and C.A. Querini.
+\newblock Volumetric method for free and total glycerin determination in
+  biodiesel.
+\newblock \emph{Industrial and Engineering Chemistry Research}, 49\penalty0
+  (19):\penalty0 8935--8941, 2010.
+\newblock ISSN 08885885.
+\newblock \doi{10.1021/ie100725f}.
+\newblock URL
+  \url{http://www.scopus.com/inward/record.url?eid=2-s2.0-77957562395&partnerID=40&md5=f0f584ab608ee9d45006cf0937cfe3dc}.
+\newblock cited By (since 1996) 5.
+
+\bibitem[Hirata et~al.(2003)Hirata, Hashiguchi, and Kawata]{Hirata2003}
+Yukio Hirata, Takashi Hashiguchi, and Etsushi Kawata.
+\newblock {Development of comprehensive two-dimensional packed column
+  supercritical fluid chromatography}.
+\newblock \emph{Journal of Separation Science}, 26\penalty0 (6-7):\penalty0
+  531--535, May 2003.
+\newblock ISSN 1615-9306.
+\newblock \doi{10.1002/jssc.200390072}.
+\newblock URL \url{http://doi.wiley.com/10.1002/jssc.200390072}.
+
+\bibitem[Hirata and Sogabe(2004)]{Hirata2004}
+Yukio Hirata and Ito Sogabe.
+\newblock {Separation of fatty acid methyl esters by comprehensive
+  two-dimensional supercritical fluid chromatography with packed columns and
+  programming of sampling duration.}
+\newblock \emph{Analytical and Bioanalytical Chemistry}, 378\penalty0
+  (8):\penalty0 1999--2003, April 2004.
+\newblock ISSN 1618-2642.
+\newblock \doi{10.1007/s00216-003-2487-8}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/15064907}.
+
+\bibitem[Ulrich(2011)]{Ulrich2011}
+Karl~T. Ulrich.
+\newblock \emph{Design: Creation of artifacts in society}.
+\newblock Unversity of Pennsylvania, Pennsylvania, 1.0 edition, 2011.
+\newblock ISBN 9780983648703.
+\newblock URL
+  \url{http://opim.wharton.upenn.edu/~ulrich/ulrichbook-10Aug12.pdf}.
+
+\bibitem[McGee(1988)]{Mcgee1988}
+Thomas~D. McGee.
+\newblock \emph{Principles and methods of temperature measurement.}
+\newblock Wiley-Interscience, 1988.
+
+\bibitem[Peacock(Version 2)]{Peacock}
+Finn Peacock.
+\newblock Pid tuning blueprint.
+\newblock Privately, Version 2.
+
+\bibitem[Venter and Rohwer(2004)]{Venter2004}
+Andre Venter and Egmont~R Rohwer.
+\newblock {Comprehensive two-dimensional supercritical fluid and gas
+  chromatography with independent fast programmed heating of the gas
+  chromatographic column.}
+\newblock \emph{Analytical chemistry}, 76\penalty0 (13):\penalty0 3699--706,
+  July 2004.
+\newblock ISSN 0003-2700.
+\newblock \doi{10.1021/ac035538c}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/15228344}.
+
+\bibitem[Venter et~al.(2006)Venter, Makgwane, and Rohwer]{Venter2006}
+Andre Venter, Peter~R Makgwane, and Egmont~R Rohwer.
+\newblock {Group-type analysis of oxygenated compounds with a silica gel porous
+  layer open tubular column and comprehensive two-dimensional supercritical
+  fluid and gas chromatography.}
+\newblock \emph{Analytical chemistry}, 78\penalty0 (6):\penalty0 2051--4, March
+  2006.
+\newblock ISSN 0003-2700.
+\newblock \doi{10.1021/ac051693a}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16536445}.
+
+\end{thebibliography}
